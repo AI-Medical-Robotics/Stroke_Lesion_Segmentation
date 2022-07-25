@@ -1,1 +1,3 @@
-# Neurovascular_Lesion_Detection
+# Neurovascular Lesion Segmentation
+
+## Outline
